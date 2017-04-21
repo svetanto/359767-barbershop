@@ -1,0 +1,13 @@
+body {
+  font-size: 25px;
+  line-height: 30px;
+  color: #464646;
+  font-weight:normal;
+  font-family: OpenSansLight, Arial, sans-serif;
+  letter-spacing: 0.01em;
+}
+h2 {
+  font-size: 47px;
+  color: black;
+  font-family: GilroyExtraBold, Arial, sans-serif;
+}
